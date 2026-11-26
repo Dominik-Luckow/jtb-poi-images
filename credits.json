@@ -223,5 +223,355 @@
   "credit": "Foto: 36photo auf Pixabay, Lizenz: Pixabay Content License",
   "source": "pixabay",
   "page": "https://pixabay.com/photos/facilities-dragon-hie-shrine-2984356/"
+ },
+ "tokyo-ghibli-museum-wm5": {
+  "credit": "Foto: lumoplank auf Wikimedia Commons, Lizenz: CC0",
+  "source": "wikimedia",
+  "page": "https://commons.wikimedia.org/wiki/File:Ghibli_Museum_-_GhibliMuseum864.jpg"
+ },
+ "tokyo-shibuya-sky-wm0": {
+  "credit": "Foto: Kakidai auf Wikimedia Commons, Lizenz: CC BY-SA 4.0",
+  "source": "wikimedia",
+  "page": "https://commons.wikimedia.org/wiki/File:Shibuya_Scramble_Square_-_SHIBUYA_SKY_10.jpg"
+ },
+ "tokyo-shibuya-sky-wm14": {
+  "credit": "Foto: Kakidai auf Wikimedia Commons, Lizenz: CC BY-SA 4.0",
+  "source": "wikimedia",
+  "page": "https://commons.wikimedia.org/wiki/File:Shibuya_Scramble_Square_-_SHIBUYA_SKY_4.jpg"
+ },
+ "kyoto-tenryu-ji-wm4": {
+  "credit": "Foto: Don Ramey Logan auf Wikimedia Commons, Lizenz: CC BY 4.0",
+  "source": "wikimedia",
+  "page": "https://commons.wikimedia.org/wiki/File:Sogenchi_Garden_Tenryu-ji_temple_Kyoto_Japan_Don_Ramey_Logan.jpg"
+ },
+ "kyoto-tenryu-ji-wm13": {
+  "credit": "Foto: MyName (Russlush3) auf Wikimedia Commons, Lizenz: Public domain",
+  "source": "wikimedia",
+  "page": "https://commons.wikimedia.org/wiki/File:Tenryu-ji_Temple.JPG"
+ },
+ "kyoto-tenryu-ji-wm1": {
+  "credit": "Foto: Marco Almbauer auf Wikimedia Commons, Lizenz: CC BY-SA 4.0",
+  "source": "wikimedia",
+  "page": "https://commons.wikimedia.org/wiki/File:Durchgang_im_Tenry%C5%AB-ji_Garten.jpg"
+ },
+ "kyoto-tenryu-ji-wm2": {
+  "credit": "Foto: TarnishedPath auf Wikimedia Commons, Lizenz: CC BY-SA 4.0",
+  "source": "wikimedia",
+  "page": "https://commons.wikimedia.org/wiki/File:Tenryu-ji_Temple_in_Kyoto.jpg"
+ },
+ "tokyo-takeshita-dori-wm12": {
+  "credit": "Foto: Bject auf Wikimedia Commons, Lizenz: CC BY 4.0",
+  "source": "wikimedia",
+  "page": "https://commons.wikimedia.org/wiki/File:Harajuku_view_(2025)IMG_0053.jpg"
+ },
+ "tokyo-mount-takao-wm10": {
+  "credit": "Foto: Syced auf Wikimedia Commons, Lizenz: CC0",
+  "source": "wikimedia",
+  "page": "https://commons.wikimedia.org/wiki/File:Takao-san_hike_during_winter_6.jpg"
+ },
+ "tokyo-mount-takao-wm3": {
+  "credit": "Foto: Syced auf Wikimedia Commons, Lizenz: CC0",
+  "source": "wikimedia",
+  "page": "https://commons.wikimedia.org/wiki/File:Takao-san_hike_during_winter.jpg"
+ },
+ "tokyo-mount-takao-wm14": {
+  "credit": "Foto: Syced auf Wikimedia Commons, Lizenz: CC0",
+  "source": "wikimedia",
+  "page": "https://commons.wikimedia.org/wiki/File:Takao-san_hike_during_winter_20.jpg"
+ },
+ "tokyo-omotesando-wm0": {
+  "credit": "Foto: gog.creator auf Wikimedia Commons, Lizenz: CC BY 4.0",
+  "source": "wikimedia",
+  "page": "https://commons.wikimedia.org/wiki/File:Omotesando_Avenue_at_sunset_from_pedestrian_bridge,_Jingumae,_Shibuya,_Tokyo.jpg"
+ },
+ "kyoto-kodai-ji-wm15": {
+  "credit": "Foto: Guilhem Vellut from Annecy, France auf Wikimedia Commons, Lizenz: CC BY 2.0",
+  "source": "wikimedia",
+  "page": "https://commons.wikimedia.org/wiki/File:Kodai-ji_Temple_@_Kyoto_(13310622383).jpg"
+ },
+ "kyoto-kodai-ji-wm3": {
+  "credit": "Foto: Guilhem Vellut from Annecy, France auf Wikimedia Commons, Lizenz: CC BY 2.0",
+  "source": "wikimedia",
+  "page": "https://commons.wikimedia.org/wiki/File:Kodai-ji_Temple_@_Kyoto_(13310546423).jpg"
+ },
+ "kyoto-kodai-ji-wm1": {
+  "credit": "Foto: Guilhem Vellut from Annecy, France auf Wikimedia Commons, Lizenz: CC BY 2.0",
+  "source": "wikimedia",
+  "page": "https://commons.wikimedia.org/wiki/File:Kodai-ji_Temple_@_Kyoto_(13310832564).jpg"
+ },
+ "kyoto-kodai-ji-wm5": {
+  "credit": "Foto: Guilhem Vellut from Annecy, France auf Wikimedia Commons, Lizenz: CC BY 2.0",
+  "source": "wikimedia",
+  "page": "https://commons.wikimedia.org/wiki/File:Kodai-ji_Temple_@_Kyoto_(13310620403).jpg"
+ },
+ "tokyo-rikugien-wm9": {
+  "credit": "Foto: Guilhem Vellut from Annecy, France auf Wikimedia Commons, Lizenz: CC BY 2.0",
+  "source": "wikimedia",
+  "page": "https://commons.wikimedia.org/wiki/File:Rikugien_Garden_@_Komagome_(11165852244).jpg"
+ },
+ "tokyo-rikugien-wm1": {
+  "credit": "Foto: Dale Cruse from San Francisco, CA, USA auf Wikimedia Commons, Lizenz: CC BY 2.0",
+  "source": "wikimedia",
+  "page": "https://commons.wikimedia.org/wiki/File:Rikugien_Gardens_-_Flickr_-_dalecruse.jpg"
+ },
+ "tokyo-rikugien-wm3": {
+  "credit": "Foto: Adam Jones from Kelowna, BC, Canada auf Wikimedia Commons, Lizenz: CC BY-SA 2.0",
+  "source": "wikimedia",
+  "page": "https://commons.wikimedia.org/wiki/File:Rikugien_Gardens_-_Tokyo_-_Japan_-_01_(47117919324).jpg"
+ },
+ "tokyo-rikugien-wm14": {
+  "credit": "Foto: Guilhem Vellut from Annecy, France auf Wikimedia Commons, Lizenz: CC BY 2.0",
+  "source": "wikimedia",
+  "page": "https://commons.wikimedia.org/wiki/File:Spring_@_Rikugien_Garden_@_Komagome_(13942701063).jpg"
+ },
+ "tokyo-rikugien-wm5": {
+  "credit": "Foto: Guilhem Vellut from Annecy, France auf Wikimedia Commons, Lizenz: CC BY 2.0",
+  "source": "wikimedia",
+  "page": "https://commons.wikimedia.org/wiki/File:Rikugien_Garden_(9235179695).jpg"
+ },
+ "osaka-hozenji-yokocho-wm7": {
+  "credit": "Foto: Ian G Shingler auf Wikimedia Commons, Lizenz: CC BY-SA 4.0",
+  "source": "wikimedia",
+  "page": "https://commons.wikimedia.org/wiki/File:Hozen-ji_Temple.jpg"
+ },
+ "osaka-hozenji-yokocho-wm3": {
+  "credit": "Foto: Hyppolyte de Saint-Rambert auf Wikimedia Commons, Lizenz: CC BY 4.0",
+  "source": "wikimedia",
+  "page": "https://commons.wikimedia.org/wiki/File:Hozenji_(Osaka_Chuo-ku)_Temple_hdsr_S5_24.jpg"
+ },
+ "osaka-hozenji-yokocho-wm0": {
+  "credit": "Foto: Choi2451 auf Wikimedia Commons, Lizenz: CC BY-SA 3.0",
+  "source": "wikimedia",
+  "page": "https://commons.wikimedia.org/wiki/File:Hozenji_Yokocho_at_night.jpg"
+ },
+ "kyoto-eikan-do-wm0": {
+  "credit": "Foto: Martin Falbisoner auf Wikimedia Commons, Lizenz: CC BY-SA 4.0",
+  "source": "wikimedia",
+  "page": "https://commons.wikimedia.org/wiki/File:Eikan-do_Zenrin-ji,_November_2016_-03.jpg"
+ },
+ "kyoto-kennin-ji-wm9": {
+  "credit": "Foto: HAGAT hOMSZE auf Wikimedia Commons, Lizenz: CC0",
+  "source": "wikimedia",
+  "page": "https://commons.wikimedia.org/wiki/File:JP_%E6%97%A5%E6%9C%AC_Japan_%E4%BA%AC%E9%83%BD_Kyoto_tourism_%E4%B8%AD%E4%BA%AC%E5%8D%80_Nakagyo-ku_%E5%BB%BA%E4%BB%81%E5%AF%BA_Kennin-ji_Temple_June_2026_N13P_107.jpg"
+ },
+ "kyoto-kennin-ji-wm1": {
+  "credit": "Foto: HAGAT hOMSZE auf Wikimedia Commons, Lizenz: CC0",
+  "source": "wikimedia",
+  "page": "https://commons.wikimedia.org/wiki/File:JP_%E6%97%A5%E6%9C%AC_Japan_%E4%BA%AC%E9%83%BD_Kyoto_tourism_%E4%B8%AD%E4%BA%AC%E5%8D%80_Nakagyo-ku_%E5%BB%BA%E4%BB%81%E5%AF%BA_Kennin-ji_Temple_June_2026_N13P_100.jpg"
+ },
+ "kyoto-kitano-tenmangu-wm2": {
+  "credit": "Foto: 663highland auf Wikimedia Commons, Lizenz: CC BY 2.5",
+  "source": "wikimedia",
+  "page": "https://commons.wikimedia.org/wiki/File:Kitano-tenmangu_Kyoto_Japan41s3s4592.jpg"
+ },
+ "kyoto-kitano-tenmangu-wm6": {
+  "credit": "Foto: Motokoka auf Wikimedia Commons, Lizenz: CC BY-SA 4.0",
+  "source": "wikimedia",
+  "page": "https://commons.wikimedia.org/wiki/File:Kitano_Tenmangu_shrine_3.jpg"
+ },
+ "kyoto-kitano-tenmangu-wm7": {
+  "credit": "Foto: Hyppolyte de Saint-Rambert auf Wikimedia Commons, Lizenz: CC BY 4.0",
+  "source": "wikimedia",
+  "page": "https://commons.wikimedia.org/wiki/File:Kitano-tenmangu_(Kamigyo-ku_Kyoto)_Tenjin-san_hdsr_Shrine_S5_41.jpg"
+ },
+ "kyoto-sanzen-in-wm2": {
+  "credit": "Foto: Chi King auf Wikimedia Commons, Lizenz: CC BY 2.0",
+  "source": "wikimedia",
+  "page": "https://commons.wikimedia.org/wiki/File:Sanzen-in_%E4%B8%89%E5%8D%83%E9%99%A2_(KYOTO-JAPAN)_(4950791861).jpg"
+ },
+ "kyoto-sanzen-in-wm7": {
+  "credit": "Foto: Chi King auf Wikimedia Commons, Lizenz: CC BY 2.0",
+  "source": "wikimedia",
+  "page": "https://commons.wikimedia.org/wiki/File:Sanzen-in_%E4%B8%89%E5%8D%83%E9%99%A2_(KYOTO-JAPAN)_(4951385058).jpg"
+ },
+ "kyoto-sanzen-in-wm11": {
+  "credit": "Foto: 663highland auf Wikimedia Commons, Lizenz: CC BY-SA 4.0",
+  "source": "wikimedia",
+  "page": "https://commons.wikimedia.org/wiki/File:200828_Sanzen-in_Kyoto_Japan01s3.jpg"
+ },
+ "kyoto-shimogamo-jinja-wm0": {
+  "credit": "Foto: Immanuelle auf Wikimedia Commons, Lizenz: CC BY 4.0",
+  "source": "wikimedia",
+  "page": "https://commons.wikimedia.org/wiki/File:Shimogamo_Shrine-83.jpg"
+ },
+ "kyoto-shimogamo-jinja-wm6": {
+  "credit": "Foto: Immanuelle auf Wikimedia Commons, Lizenz: CC BY 4.0",
+  "source": "wikimedia",
+  "page": "https://commons.wikimedia.org/wiki/File:Shimogamo_Shrine-84.jpg"
+ },
+ "osaka-tenmangu-wm0": {
+  "credit": "Foto: Sakai Yayoi auf Wikimedia Commons, Lizenz: CC0",
+  "source": "wikimedia",
+  "page": "https://commons.wikimedia.org/wiki/File:Osaka_Tenmangu_Shrine_2026.jpg"
+ },
+ "osaka-tenmangu-wm3": {
+  "credit": "Foto: Sakai Yayoi auf Wikimedia Commons, Lizenz: CC0",
+  "source": "wikimedia",
+  "page": "https://commons.wikimedia.org/wiki/File:Osaka_Tenmangu_Shrine_ao_04.jpg"
+ },
+ "osaka-tenmangu-wm6": {
+  "credit": "Foto: Hyppolyte de Saint-Rambert auf Wikimedia Commons, Lizenz: CC BY 4.0",
+  "source": "wikimedia",
+  "page": "https://commons.wikimedia.org/wiki/File:Tenjinnomori_Tenmangu_(Osaka_Nishinari-ku)_Shrine_hdsr_S5_81.jpg"
+ },
+ "osaka-tenmangu-wm11": {
+  "credit": "Foto: Hyppolyte de Saint-Rambert auf Wikimedia Commons, Lizenz: CC BY 4.0",
+  "source": "wikimedia",
+  "page": "https://commons.wikimedia.org/wiki/File:Tenjinnomori_Tenmangu_(Osaka_Nishinari-ku)_Shrine_hdsr_S5_51.jpg"
+ },
+ "tokyo-kokyo-gaien-wm0": {
+  "credit": "Foto: MariaAngelesPhoto auf Wikimedia Commons, Lizenz: CC BY 4.0",
+  "source": "wikimedia",
+  "page": "https://commons.wikimedia.org/wiki/File:Imperial_Palace_Outer_Gardens_Tokyo_Japan.jpg"
+ },
+ "tokyo-kokyo-gaien-wm10": {
+  "credit": "Foto: SOUTHPASIFIC auf Wikimedia Commons, Lizenz: CC BY-SA 4.0",
+  "source": "wikimedia",
+  "page": "https://commons.wikimedia.org/wiki/File:Tokyo,06.05_(53).jpg"
+ },
+ "tokyo-kokyo-gaien-wm6": {
+  "credit": "Foto: Rwendland auf Wikimedia Commons, Lizenz: CC BY-SA 4.0",
+  "source": "wikimedia",
+  "page": "https://commons.wikimedia.org/wiki/File:K%C5%8Dkyo-Gaien,_toward_central_Tokyo.jpg"
+ },
+ "tokyo-kokyo-gaien-wm13": {
+  "credit": "Foto: ProtoplasmaKid auf Wikimedia Commons, Lizenz: CC BY 4.0",
+  "source": "wikimedia",
+  "page": "https://commons.wikimedia.org/wiki/File:Jard%C3%ADn_Exterior_del_Palacio_Imperial_-_2020_-_2.jpg"
+ },
+ "tokyo-nakano-broadway-wm14": {
+  "credit": "Foto: Asanagi auf Wikimedia Commons, Lizenz: CC0",
+  "source": "wikimedia",
+  "page": "https://commons.wikimedia.org/wiki/File:Mandarake_Nakano_main_store_2024-04-11.jpg"
+ },
+ "tokyo-kanda-myojin-wm6": {
+  "credit": "Foto: Yoshikazu TAKADA from Tokyo, Japan auf Wikimedia Commons, Lizenz: CC BY 2.0",
+  "source": "wikimedia",
+  "page": "https://commons.wikimedia.org/wiki/File:Sakura_at_Kanda_Myojin_Shrine_(5618203831).jpg"
+ },
+ "tokyo-kanda-myojin-wm12": {
+  "credit": "Foto: Unbekannt auf Wikimedia Commons, Lizenz: CC BY 2.0",
+  "source": "wikimedia",
+  "page": "https://commons.wikimedia.org/wiki/File:Kanda-myojin,_Chiyoda;_May_2014_(04).jpg"
+ },
+ "tokyo-kanda-myojin-wm11": {
+  "credit": "Foto: Stephen Kelly from San Francisco, CA, USA auf Wikimedia Commons, Lizenz: CC BY 2.0",
+  "source": "wikimedia",
+  "page": "https://commons.wikimedia.org/wiki/File:Kanda_Myojin_Shrine,_Akihabara_(53416822453).jpg"
+ },
+ "tokyo-kanda-myojin-wm15": {
+  "credit": "Foto: Unbekannt auf Wikimedia Commons, Lizenz: CC BY 2.0",
+  "source": "wikimedia",
+  "page": "https://commons.wikimedia.org/wiki/File:Kanda-myojin,_Chiyoda;_May_2014_(10).jpg"
+ },
+ "kyoto-ninna-ji-wm11": {
+  "credit": "Foto: Hyppolyte de Saint-Rambert auf Wikimedia Commons, Lizenz: CC BY-SA 4.0",
+  "source": "wikimedia",
+  "page": "https://commons.wikimedia.org/wiki/File:Ninna_ji_Niomon.jpg"
+ },
+ "kyoto-ninna-ji-wm1": {
+  "credit": "Foto: 663highland auf Wikimedia Commons, Lizenz: CC BY 2.5",
+  "source": "wikimedia",
+  "page": "https://commons.wikimedia.org/wiki/File:Ninnaji_Kyoto07n4500.jpg"
+ },
+ "kyoto-ninna-ji-wm5": {
+  "credit": "Foto: Hyppolyte de Saint-Rambert auf Wikimedia Commons, Lizenz: CC BY-SA 4.0",
+  "source": "wikimedia",
+  "page": "https://commons.wikimedia.org/wiki/File:Ninna_ji_%C3%A9tang.jpg"
+ },
+ "kyoto-ninna-ji-wm14": {
+  "credit": "Foto: 先従隗始 auf Wikimedia Commons, Lizenz: CC0",
+  "source": "wikimedia",
+  "page": "https://commons.wikimedia.org/wiki/File:%C5%8Cuchisan_Ninna-ji_Temple_20240309_34.jpg"
+ },
+ "kyoto-toei-uzumasa-eigamura-wm0": {
+  "credit": "Foto: Maksym Grinenko auf Wikimedia Commons, Lizenz: CC BY-SA 4.0",
+  "source": "wikimedia",
+  "page": "https://commons.wikimedia.org/wiki/File:Toei_Kyoto_Studio_Park_from_above.jpg"
+ },
+ "kyoto-toei-uzumasa-eigamura-wm7": {
+  "credit": "Foto: 663highland auf Wikimedia Commons, Lizenz: CC BY-SA 4.0",
+  "source": "wikimedia",
+  "page": "https://commons.wikimedia.org/wiki/File:130706_Toei_Kyoto_Studio_Park_Kyoto_Japan01s3.jpg"
+ },
+ "kyoto-toei-uzumasa-eigamura-wm9": {
+  "credit": "Foto: Japanexperterna.se auf Wikimedia Commons, Lizenz: CC BY-SA 3.0",
+  "source": "wikimedia",
+  "page": "https://commons.wikimedia.org/wiki/File:Eigamura_set.jpg"
+ },
+ "kyoto-tower-wm0": {
+  "credit": "Foto: Basile Morin auf Wikimedia Commons, Lizenz: CC BY-SA 4.0",
+  "source": "wikimedia",
+  "page": "https://commons.wikimedia.org/wiki/File:Observation_deck_at_Kyoto_Tower_with_staff_cleaning_the_windows,_Japan.jpg"
+ },
+ "kyoto-tower-wm5": {
+  "credit": "Foto: DeltaSquad833 auf Wikimedia Commons, Lizenz: CC BY-SA 4.0",
+  "source": "wikimedia",
+  "page": "https://commons.wikimedia.org/wiki/File:Kyoto_Tower_Hotel.jpg"
+ },
+ "osaka-kishiwada-castle-wm0": {
+  "credit": "Foto: 663highland auf Wikimedia Commons, Lizenz: CC BY 2.5",
+  "source": "wikimedia",
+  "page": "https://commons.wikimedia.org/wiki/File:Kishiwada_Castle_Kishiwada_Osaka_pref_Japan04s3.jpg"
+ },
+ "osaka-kishiwada-castle-wm1": {
+  "credit": "Foto: 663highland auf Wikimedia Commons, Lizenz: CC BY 2.5",
+  "source": "wikimedia",
+  "page": "https://commons.wikimedia.org/wiki/File:Kishiwada_Castle_Kishiwada_Osaka_pref_Japan02s5.jpg"
+ },
+ "osaka-kishiwada-castle-wm4": {
+  "credit": "Foto: Saigen Jiro auf Wikimedia Commons, Lizenz: CC0",
+  "source": "wikimedia",
+  "page": "https://commons.wikimedia.org/wiki/File:Kishiwada_Castle,_honmaru-1.jpg"
+ },
+ "osaka-kishiwada-castle-wm14": {
+  "credit": "Foto: 663highland auf Wikimedia Commons, Lizenz: CC BY 2.5",
+  "source": "wikimedia",
+  "page": "https://commons.wikimedia.org/wiki/File:Kishiwada_Castle_Kishiwada_Osaka_pref_Japan09n.jpg"
+ },
+ "osaka-kishiwada-castle-wm10": {
+  "credit": "Foto: 663highland auf Wikimedia Commons, Lizenz: CC BY 2.5",
+  "source": "wikimedia",
+  "page": "https://commons.wikimedia.org/wiki/File:Kishiwada_Castle_Kishiwada_Osaka_pref_Japan25n.jpg"
+ },
+ "osaka-namba-parks-wm0": {
+  "credit": "Foto: 663highland auf Wikimedia Commons, Lizenz: CC BY 2.5",
+  "source": "wikimedia",
+  "page": "https://commons.wikimedia.org/wiki/File:Namba_parks04s3872.jpg"
+ },
+ "osaka-namba-parks-wm7": {
+  "credit": "Foto: 663highland auf Wikimedia Commons, Lizenz: CC BY 2.5",
+  "source": "wikimedia",
+  "page": "https://commons.wikimedia.org/wiki/File:150328_Namba_Parks_Osaka_Japan03bs3.jpg"
+ },
+ "osaka-national-museum-of-art-wm5": {
+  "credit": "Foto: Sakai Yayoi auf Wikimedia Commons, Lizenz: CC0",
+  "source": "wikimedia",
+  "page": "https://commons.wikimedia.org/wiki/File:NMAO_2026.jpg"
+ },
+ "tokyo-akasaka-palace-wm0": {
+  "credit": "Foto: Yasu (talk) auf Wikimedia Commons, Lizenz: CC BY-SA 3.0",
+  "source": "wikimedia",
+  "page": "https://commons.wikimedia.org/wiki/File:State_Guest_House_Akasaka_Palace_main_entrance.jpg"
+ },
+ "tokyo-akasaka-palace-wm12": {
+  "credit": "Foto: Kakidai auf Wikimedia Commons, Lizenz: CC BY-SA 4.0",
+  "source": "wikimedia",
+  "page": "https://commons.wikimedia.org/wiki/File:Akasaka_Palace_2.jpg"
+ },
+ "tokyo-akasaka-palace-wm14": {
+  "credit": "Foto: Kakidai auf Wikimedia Commons, Lizenz: CC BY-SA 4.0",
+  "source": "wikimedia",
+  "page": "https://commons.wikimedia.org/wiki/File:Akasaka_Palace_5.jpg"
+ },
+ "tokyo-akasaka-palace-wm5": {
+  "credit": "Foto: Mr.Asylum auf Wikimedia Commons, Lizenz: CC BY-SA 4.0",
+  "source": "wikimedia",
+  "page": "https://commons.wikimedia.org/wiki/File:JPN_State_Guest_Houses_Annex,_Yushin-tei_2.jpg"
+ },
+ "tokyo-akasaka-palace-wm11": {
+  "credit": "Foto: Kakidai auf Wikimedia Commons, Lizenz: CC BY-SA 4.0",
+  "source": "wikimedia",
+  "page": "https://commons.wikimedia.org/wiki/File:Akasaka_Palace_6.jpg"
  }
 }
